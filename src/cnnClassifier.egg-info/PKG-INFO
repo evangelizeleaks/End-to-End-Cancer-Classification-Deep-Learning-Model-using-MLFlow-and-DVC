@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/evangelizeleaks/End-to-End-Cancer-Classification-Deep-Learning-Model-using-MLFlow-and-DVC
+Author: evangelizeleaks
+Author-email: aru.khandelwal2000@gmail.com
+Project-URL: Bug Tracker, https://github.com/evangelizeleaks/End-to-End-Cancer-Classification-Deep-Learning-Model-using-MLFlow-and-DVC/issues
+License-File: LICENSE
+
+# End-to-End-Cancer-Classification-Deep-Learning-Model-using-MLFlow-and-DVC
